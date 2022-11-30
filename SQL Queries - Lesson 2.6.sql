@@ -1,3 +1,5 @@
+USE sakila;
+
 -- 1. In the table actor, which are the actors whose last names are not repeated? 
 -- For example if you would sort the data in the table actor by last_name, 
 -- you would see that there is Christian Arkoyd, Kirsten Arkoyd, and Debbie Arkoyd. These three actors have the same last name. 
